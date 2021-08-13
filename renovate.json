@@ -12,9 +12,5 @@
   ],
   "extends": [
     "config:base"
-  ],
-  "labels": [
-    "kind/upgrade"
-  ],
-  "timezone": "Europe/Paris"
+  ]
 }
